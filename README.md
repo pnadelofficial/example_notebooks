@@ -1,3 +1,3 @@
 # example_notebooks
 
-example notebooks for Binder
+example notebooks for tuftsdh.pythonanywhere.com
