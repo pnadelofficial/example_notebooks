@@ -1,0 +1,10 @@
+geopandas
+pandas
+numpy
+matplotlib
+bs4
+requests
+plotly
+stanza
+numpy
+zipfile
